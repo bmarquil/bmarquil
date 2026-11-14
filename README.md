@@ -1,84 +1,120 @@
-Hi, I’m Bernat Marquilles! 👋
 
-Educator | Robotics & Automation Engineer | EdTech Enthusiast
+<!-- PROFILE README -->
 
-I’m a primary school teacher with a background in Industrial Automation and Robotics, passionate about bringing technology, creativity and innovation into education.
+<h1 align="center">Hi, I'm Bernat Marquilles 👋</h1>
+<h3 align="center">Educator · Robotics & Automation Engineer · EdTech Innovator</h3>
 
-I believe in learning by doing, experimenting and solving real-world problems. My work focuses on connecting education and technology through educational robotics, computational thinking, STEM/STEAM projects and digital fabrication.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Connecting+technology+and+education;Educational+Robotics+%7C+STEM+%7C+Maker+Culture;Learning+by+making%2C+creating+and+experimenting" alt="Typing SVG" />
+</p>
 
-I’m particularly interested in designing meaningful learning experiences that help students develop creativity, critical thinking, problem-solving skills and technological awareness.
+<p align="center">
+  <a href="https://github.com/Bmarquil"><img src="https://img.shields.io/badge/GitHub-Bmarquil-181717?style=flat&logo=github" /></a>
+  <img src="https://img.shields.io/badge/Location-Agramunt%2C%20Catalonia-red?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Education%20%26%20Technology-2F81F7?style=flat" />
+</p>
 
-🎓 Education
+---
 
-* Master’s Degree in Leadership of Pedagogical Innovation and Educational Center Management – Blanquerna, Universitat Ramon Llull.
-* Bachelor’s Degree in Primary Education – Teacher training.
-* Advanced Vocational Training in Industrial Automation and Robotics – Industrial automation, control systems and robotics.
+## 👨‍💻 About me
 
-🚀 What I’m working on
+I'm a **primary school teacher and robotics enthusiast** with an engineering background and a strong interest in educational innovation.
 
-I’m the founder of CAFA – Centre d’Aprenentatge i Formació d’Agramunt, an educational project focused on innovative learning experiences.
+My professional journey combines three areas:
+- ⚙️ **Engineering:** Industrial automation, robotics and electronics.
+- 🎓 **Education:** Primary education and meaningful learning experiences.
+- 🚀 **Innovation:** Educational leadership, STEM projects and technology integration.
 
-At CAFA, we explore how technology can transform learning through:
+I enjoy designing, building and experimenting with projects that connect the real world with learning. My goal is to help students become creators, critical thinkers and problem solvers rather than just technology consumers.
 
-* 🤖 Educational robotics and physical computing.
-* 💻 Computational thinking, connected and unplugged activities.
-* 🖨️ 3D design and additive manufacturing.
-* 🧠 STEM/STEAM education and project-based learning.
-* 🎨 Creative technology and digital fabrication.
-* 📚 Educational innovation and teacher development.
+## 🎓 Education
 
-🛠️ Technologies & Interests
+- 🎓 **Master's Degree in Leadership of Pedagogical Innovation and Educational Center Management** — Blanquerna, Universitat Ramon Llull.
+- 📚 **Bachelor's Degree in Primary Education.**
+- ⚙️ **Advanced Vocational Training in Industrial Automation and Robotics.**
 
-Robotics & Electronics
+## 🚀 CAFA — Centre d'Aprenentatge i Formació d'Agramunt
 
-* Arduino
-* ESP32
-* micro:bit
-* Educational robotics
-* Sensors, actuators and automation
+I'm the founder of **CAFA**, an educational project in Catalonia focused on robotics, technology, STEM education and learning through experimentation.
 
-Programming & Digital Technologies
+At CAFA, we develop educational experiences involving:
 
-* C / C++
-* Python
-* Block-based programming
-* Computational thinking
+- 🤖 Educational robotics and computational thinking.
+- 🖨️ 3D design and additive manufacturing.
+- 💻 Programming and physical computing.
+- 🧠 STEM / STEAM learning projects.
+- 🛠️ Digital fabrication and maker education.
+- 📚 Educational innovation and creative learning.
 
-Digital Fabrication
+## 🛠️ Technologies & Tools
 
-* 3D printing
-* CAD and 3D design
-* Bambu Lab
-* CNC and laser cutting
+### Robotics & Electronics
 
-Education
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/micro%3Abit-00A3E0?style=for-the-badge&logo=microbit&logoColor=white" />
+</p>
 
-* STEM / STEAM
-* Project-based learning
-* Educational innovation
-* Robotics in primary education
-* Unplugged computational thinking
+### Programming
 
-💡 My philosophy
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-Technology is not just something to learn about. It is a tool to create, explore, experiment and understand the world around us.
+### Digital Fabrication & Maker Tools
 
-I believe in an education where students become creators, not just consumers of technology.
+<p>
+  <img src="https://img.shields.io/badge/Bambu_Lab-00AE42?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D_Printing-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CAD_Design-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNC-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laser_Cutting-8A2BE2?style=for-the-badge" />
+</p>
 
-Learn by making. Think by creating. Innovate through education.
+## 📌 Featured Projects
 
-📍 More about me
+Some of my educational and technological projects:
 
-* Based in Agramunt, Catalonia 
-* Founder of CAFA.
-* Primary school teacher.
-* Passionate about robotics, engineering, education and maker culture.
-* Always learning, building and experimenting.
+- [ProgramaCAT](https://github.com/Bmarquil) — Educational programming project.
+- [CalculMentalCasteller](https://github.com/Bmarquil) — Mental maths and learning.
+- [DuelOrtograficCI](https://github.com/Bmarquil) — Interactive spelling challenges.
+- [CalcMatCat](https://github.com/Bmarquil) — Mathematics and educational resources.
+- [DictaCAT](https://github.com/Bmarquil) — Catalan dictation project.
 
-🤝 Let’s connect!
+*Explore my repositories for more projects and experiments.*
 
-I’m always interested in educational technology, robotics projects, STEM initiatives and collaborations that bring innovation into the classroom.
+## 📊 GitHub Statistics
 
-⸻
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bmarquil&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bmarquil&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
-Building bridges between engineering, technology and education.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bmarquil&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 💡 My philosophy
+
+> Technology is not just something to learn about. It is a tool to create, explore, experiment and understand the world around us.
+
+**Learn by making. Think by creating. Innovate through education.**
+
+## 🤝 Let's connect
+
+I'm always interested in educational technology, robotics, STEM initiatives and collaborations that bring innovation into the classroom.
+
+<p align="center">
+  <a href="https://github.com/Bmarquil">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Building bridges between engineering, technology and education.</i></p>
